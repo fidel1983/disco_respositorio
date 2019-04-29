@@ -1,5 +1,7 @@
 package ar.edu.unlam.pb2.disco;
-
+/* Clase disco para calacular radio interior y exterior
+*
+*/
 public class Disco {
 
 	private Double radioInterior;
